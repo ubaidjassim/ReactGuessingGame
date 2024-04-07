@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="container">
       <div className='head'>
-        <label htmlFor='forText'>Guess the number from 1 to 10 (answer: {secretNum})</label>
+        <label htmlFor='forText'>Guess the number from 1 to 10 </label>
       </div>
       <input
         type='text'
